@@ -1,4 +1,4 @@
-module awesomeProject1
+module test_case1
 
 go 1.17
 
